@@ -2,13 +2,13 @@
 
 **enjoy of my new project**
 
-![sassproject3](https://github.com/ziba-irani/SassProject-2-/assets/125620113/4f9febc5-6628-4a16-ad99-0e3dba09d5ae)
+![bootstrap](https://github.com/ziba-irani/BootstrapProject/assets/125620113/e0e43816-6d92-4976-93fe-59f5993b7f5f)
 
 - [Demo Project](https://ziba-irani.github.io/BootstrapProject/)
 
 - Developed by ziba irani
 
-- Technologies Used - Html , css , Sass
+- Technologies Used - Html , Css , Bootstrap
 
 - Role - Frontend
 
